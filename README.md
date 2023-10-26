@@ -1,8 +1,5 @@
 ## INTRODUCTION
-I am a passionate and skilled Full-stack Developer with 6+ years of professional experience looking to contribute knowledge in web and blockchain
-technology. I am proficient at performing well as working in a group or independently in a fast-paced setting and also I have deep understanding of SOLID principles,
-various blockchain protocols and environments, smart contract, pixel-perfect frontend development and test-driven development. I specialize in building robust backends that do all the heavy lifting for your app or website. I can work efficiently with minimum supervision and I am always eager to learn new skills.
-
+Experienced and highly skilled Game & Dapp Developer with expertise in web browser game development, Unity C# development, and senior Dapp and Metaverse development seeking a challenging position as a Lead Software Developer. Passionate Software Engineer with 10+ years of experience in developing game and backend systems, adept at writing clear, concise code and working with both small and large teams. Able to work independently or in office environments as required.
 ## SKILL SET
 <div align="center">  
   <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/c-original.svg" alt="C" height="50" />  
